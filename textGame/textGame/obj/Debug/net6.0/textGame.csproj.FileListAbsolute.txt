@@ -1,0 +1,14 @@
+C:\Users\정현석\Documents\GitHub\spartaTextGame\textGame\textGame\bin\Debug\net6.0\textGame.exe
+C:\Users\정현석\Documents\GitHub\spartaTextGame\textGame\textGame\bin\Debug\net6.0\textGame.deps.json
+C:\Users\정현석\Documents\GitHub\spartaTextGame\textGame\textGame\bin\Debug\net6.0\textGame.runtimeconfig.json
+C:\Users\정현석\Documents\GitHub\spartaTextGame\textGame\textGame\bin\Debug\net6.0\textGame.dll
+C:\Users\정현석\Documents\GitHub\spartaTextGame\textGame\textGame\bin\Debug\net6.0\textGame.pdb
+C:\Users\정현석\Documents\GitHub\spartaTextGame\textGame\textGame\obj\Debug\net6.0\textGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\정현석\Documents\GitHub\spartaTextGame\textGame\textGame\obj\Debug\net6.0\textGame.AssemblyInfoInputs.cache
+C:\Users\정현석\Documents\GitHub\spartaTextGame\textGame\textGame\obj\Debug\net6.0\textGame.AssemblyInfo.cs
+C:\Users\정현석\Documents\GitHub\spartaTextGame\textGame\textGame\obj\Debug\net6.0\textGame.csproj.CoreCompileInputs.cache
+C:\Users\정현석\Documents\GitHub\spartaTextGame\textGame\textGame\obj\Debug\net6.0\textGame.dll
+C:\Users\정현석\Documents\GitHub\spartaTextGame\textGame\textGame\obj\Debug\net6.0\refint\textGame.dll
+C:\Users\정현석\Documents\GitHub\spartaTextGame\textGame\textGame\obj\Debug\net6.0\textGame.pdb
+C:\Users\정현석\Documents\GitHub\spartaTextGame\textGame\textGame\obj\Debug\net6.0\textGame.genruntimeconfig.cache
+C:\Users\정현석\Documents\GitHub\spartaTextGame\textGame\textGame\obj\Debug\net6.0\ref\textGame.dll
