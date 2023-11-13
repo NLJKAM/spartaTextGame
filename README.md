@@ -1,29 +1,27 @@
 # spartaTextGame
-아이템 클래스 
- public class Item
- {
-     public string Name { get; }
-     public string Options { get; }
-     public string Description { get; }
-     public string Equipment { get; set; }
-     public int OptionNum { get; }
-     public int Gold { get; }
 
-     public Item(string name, string options, string description,string equipment, int optionNum,  int gold)
-     {
-         Name = name;
-         Options = options;
-         Equipment = equipment;
-         Description = description;
-         OptionNum = optionNum;
-         Gold = gold;
-     }
- }
+## 만든 부분
+* 인벤토리 , 인벤토리-장착관리
+* 아이템
+  
+## 설명
+* 장착관리
+    * 각 항목에 아이템의 장착여부를 판단해 앞에 장착했다고 보여지게함
+    * 장착과 동시에 아이템에 맞는 능력부분과 능력의 수치가 상태창에 반영되게함    
 
-이름 , 효과 , 아이템소개 , 착용여부 , 효과능력치 , 구매가 
-6개의 인자를 가짐 
-그중 착용여부는 외부에서 조절할수있음 
-
+* 아이템
+    * 이름, 능력, 아이템설명, 장착여부, 능력수치, 구매가 6개 인자를 가짐
+    * 장착여부만 외부에서 수정가능
+## 코드
+public Item(string name, string options, string description,string equipment, int optionNum,  int gold)
+{
+    Name = name;
+    Options = options;
+    Equipment = equipment;
+    Description = description;
+    OptionNum = optionNum;
+    Gold = gold;
+}
 
 static void DisplayEquipment()
 {
@@ -74,6 +72,5 @@ static void DisplayEquipment()
             break;
     }
 }
-착용여부를 DisplayEquipment()
-이쪽에서 판단해서 착용을 하거나 해제할수있음 
-착용과 동시에 상태창에 추가 스텟으로 표기됨
+
+
