@@ -13,6 +13,8 @@
     * 이름, 능력, 아이템설명, 장착여부, 능력수치, 구매가 6개 인자를 가짐
     * 장착여부만 외부에서 수정가능
 ## 코드
+<pre>
+<code>
 public Item(string name, string options, string description,string equipment, int optionNum,  int gold)
 {
     Name = name;
@@ -22,7 +24,11 @@ public Item(string name, string options, string description,string equipment, in
     OptionNum = optionNum;
     Gold = gold;
 }
+</code>
+</pre>
 
+<pre>
+<code>
 static void DisplayEquipment()
 {
     Console.Clear();
@@ -72,5 +78,7 @@ static void DisplayEquipment()
             break;
     }
 }
+  </code>
+</pre>
 
 
